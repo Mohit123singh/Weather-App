@@ -12,4 +12,4 @@ https://www.mapbox.com/
 
 How to run this project into your local-machine ?
 
-use the command npm run dev
+use the command :) npm run dev
