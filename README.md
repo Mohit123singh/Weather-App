@@ -7,6 +7,7 @@ https://weather-app-mohit-singh.herokuapp.com/
 API:
 
 https://openweathermap.org/
+
 https://www.mapbox.com/
 
 How to run this project into your local-machine ?
